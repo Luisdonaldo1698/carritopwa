@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1635314832316,
+  "index": "https://Luisdonaldo1698.github.io/carritopwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Luisdonaldo1698.github.io/carritopwa/favicon.ico",
+        "https://Luisdonaldo1698.github.io/carritopwa/index.html",
+        "https://Luisdonaldo1698.github.io/carritopwa/main.0098a17c7d11dc60c3f8.js",
+        "https://Luisdonaldo1698.github.io/carritopwa/manifest.webmanifest",
+        "https://Luisdonaldo1698.github.io/carritopwa/polyfills.77a1993727a31fa030dd.js",
+        "https://Luisdonaldo1698.github.io/carritopwa/runtime.18821b64a88c577ecb6a.js",
+        "https://Luisdonaldo1698.github.io/carritopwa/styles.11cf6b3a7e166a1bde8d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-128x128.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-144x144.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-152x152.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-192x192.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-384x384.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-512x512.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-72x72.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-96x96.png",
+        "https://Luisdonaldo1698.github.io/carritopwa/assets/shipping.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-128x128.png": "99e8b17b19bd98b221562e9ebd427fedc20cd0c8",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-144x144.png": "8cc86f407a8870c696614819a7a1272a9df4f3e9",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-152x152.png": "33d2f90810243a5e57a5889acdc8c805d860bf2f",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-192x192.png": "63ffdf48a9c32409179fdfa9cef27771d0a9bbf7",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-384x384.png": "30b51170acdba5560892e7b0bd190ff80744fe93",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-512x512.png": "c18b8014b154e9c0656cf476cc4c45783003fe8b",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-72x72.png": "19270d019716581a915f4e7cc98ef940c221905d",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/icons/icon-96x96.png": "0029d499e1806b4be7a8c9b69ca83a16278096ab",
+    "https://Luisdonaldo1698.github.io/carritopwa/assets/shipping.json": "9f9e342c76babd68907ccdb6c8d75b761fac74e1",
+    "https://Luisdonaldo1698.github.io/carritopwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://Luisdonaldo1698.github.io/carritopwa/index.html": "59708f71bdc6f07034c715cbaf08a0e7962d4130",
+    "https://Luisdonaldo1698.github.io/carritopwa/main.0098a17c7d11dc60c3f8.js": "0776ae00ed789373c30d64c7e8891c9c7286c663",
+    "https://Luisdonaldo1698.github.io/carritopwa/manifest.webmanifest": "5b11e35c68e709b7cac3f52993049cc430ce1626",
+    "https://Luisdonaldo1698.github.io/carritopwa/polyfills.77a1993727a31fa030dd.js": "4cf661614a4ec3db0f1098456e80b8d00128d1d0",
+    "https://Luisdonaldo1698.github.io/carritopwa/runtime.18821b64a88c577ecb6a.js": "7e55b36d225118431e7c39e9bc0c06b3379216b2",
+    "https://Luisdonaldo1698.github.io/carritopwa/styles.11cf6b3a7e166a1bde8d.css": "afdfbd6fa0a454418a996df3f3117579c16d465e"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
